@@ -12,7 +12,7 @@
 <img src="https://cdn.discordapp.com/attachments/951617301818540093/1239817967370240000/2.png?ex=6646f0f6&is=66459f76&hm=d4b6d6bf11664f80ecdf536303913d866b96f0619c4616ed761f2d55db8106a0&" alt="Follow me on social media for Digital Marketing Guides">
 
 <div class="header">
-  <h1>My Digital Store</h1>
+  <h1 style="font-family:'Times New Roman', Times, serif;">My Digital Store</h1>
 </div>
 
 <div class="nav">
