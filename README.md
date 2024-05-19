@@ -25,9 +25,9 @@
 <div class="container">
   <div class="product-grid">
     <div class="product">
-      <img src="https://cdn.discordapp.com/attachments/951617301818540093/1240621287345356901/github.png?ex=66473a1c&is=6645e89c&hm=b038b1f2c7a054ca7673882163fbcd259ea27515dee6d6b2f89fea6a6113f134&" alt="GitExa">
+      <img src="https://cdn.discordapp.com/attachments/951617301818540093/1241827783567609876/IMG_5005.jpg?ex=664b9dbf&is=664a4c3f&hm=2853904ad89a6b0b03d8a126c563020bb57c50fc11aec65f5e4b6ac7e4324320&" alt="GitExa" width="75" height="75">
       <h3>GitExa</h3>
-      <p>5500 BDT</p>
+      <p>0000 BDT</p>
       <a href="https://business.facebook.com/commerce/catalogs/413988408071853/products?business_id=356473753929127" style="text-decoration: none;">
   <button type="button">Add to cart</button>
 </a>
@@ -35,9 +35,9 @@
     <div class="container">
   <div class="product-grid">
     <div class="product">
-      <img src="https://cdn.discordapp.com/attachments/951617301818540093/1240623705399234560/wordpresdfs.png?ex=66473c5d&is=6645eadd&hm=96c33aee8090979b3a4ac56294443842e44c0b174418de31c98252b6c1de2d72&" alt="GitExa2">
+      <img src="https://cdn.discordapp.com/attachments/951617301818540093/1241827784096088214/IMG_5012.jpg?ex=664b9dbf&is=664a4c3f&hm=27c96bba8a9e135d12e8f5b7a3e723f1346cd3287fef434cfd49d2878d63ebb3&" alt="GitExa2" width="75" height="75">
       <h3>GitExa2</h3>
-      <p>5500 BDT</p>
+      <p>0000 BDT</p>
       <a href="https://business.facebook.com/commerce/catalogs/413988408071853/products?business_id=356473753929127" style="text-decoration: none;">
   <button type="button">Add to cart</button>
 </a>
