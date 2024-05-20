@@ -46,8 +46,7 @@
 </div>
 
 <div class="footer">
-  <p em="0.75">© 2024 My E-Commerce Store</p>
+  <p style="font-size:1em;">© 2024 My E-Commerce Store</p>
 </div>
-
 </body>
 </html>
